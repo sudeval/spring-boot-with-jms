@@ -1,0 +1,8 @@
+target/
+.classpath
+.project
+.settings/
+.sts4-cache/
+**/.attach_pid13584
+**/.vscode/
+
